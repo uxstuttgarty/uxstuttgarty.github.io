@@ -1,0 +1,5 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Webentwicklung Stuttgart" # the name of your site, e.g. ACME Corp.
+description: Willkommen bei Webentwicklung Stuttgart. Wir sind für Stuttgart da als Programmierer und Webentwickler. Darüber hinaus kümmern wir uns noch um die SEO.
+
